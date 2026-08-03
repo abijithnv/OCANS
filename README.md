@@ -1,16 +1,141 @@
-# df
+# 🦷 OCANS – Online Oral Cancer Screening System
 
-A new Flutter project.
+OCANS (Online Oral Cancer Screening System) is a full-stack healthcare application developed as an academic final-year project. The system leverages **Machine Learning**, **mobile development**, and **web technologies** to assist in the preliminary screening of oral cancer by analyzing oral cavity images and streamlining the interaction between patients, healthcare staff, and doctors.
 
-## Getting Started
+> **Note:** This application is intended for educational and research purposes only. It is **not** a replacement for professional medical diagnosis.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Project Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The objective of OCANS is to provide a digital platform that assists healthcare professionals in the early screening of oral cancer.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The system enables healthcare staff to register patients, collect oral cavity images, and record basic patient information and lifestyle habits. A Convolutional Neural Network (CNN) model processes the uploaded images and generates a preliminary risk assessment. Doctors review the machine learning prediction along with clinical observations before approving and generating the final patient report.
+
+Patients can securely access their reports through the mobile application using OTP-based email verification.
+
+---
+
+## ✨ Features
+
+* 📱 Cross-platform mobile application built with Flutter
+* 🧠 CNN-based oral cancer screening model
+* 👨‍⚕️ Doctor dashboard for reviewing and approving reports
+* 👩‍💼 Staff portal for patient registration and image collection
+* 📊 Administrative dashboard for managing staff and patient records
+* 📧 Email-based report delivery
+* 🔐 OTP verification for secure patient access
+* 📄 PDF report generation and download
+
+---
+
+## 🏗️ System Workflow
+
+1. Staff registers a new patient.
+2. Patient details and lifestyle information are recorded.
+3. Oral cavity images are uploaded through the mobile application.
+4. The CNN model analyzes the images and generates a preliminary prediction.
+5. Doctors review the prediction and clinical observations.
+6. The final report is generated and emailed to the patient.
+7. Patients download their reports securely using their Patient ID and OTP verification.
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Application
+
+* Flutter
+* Dart
+
+### Backend
+
+* Python
+* Flask
+
+### Frontend Dashboard
+
+* HTML
+* CSS
+* JavaScript
+
+### Machine Learning
+
+* Python
+* TensorFlow 
+* Convolutional Neural Network (CNN)
+
+### Dataset
+
+* Publicly available oral cancer image datasets from Kaggle and other open-source sources.
+
+---
+
+## 👥 User Roles
+
+### Patient
+
+* View and download reports
+* OTP-based authentication
+
+### Staff
+
+* Register patients
+* Upload patient images
+* Record patient information
+* Submit cases for review
+
+### Doctor
+
+* Review patient cases
+* Validate machine learning predictions
+* Generate and approve reports
+
+### Administrator
+
+* Manage staff accounts
+* Manage patient records
+* Monitor system activities
+
+---
+
+## 📷 Screenshots
+
+Add screenshots of:
+
+* Mobile Application
+* Staff Dashboard
+* Doctor Dashboard
+* Admin Dashboard
+* Prediction Result
+* Patient Report
+
+---
+
+## 🚀 Future Enhancements
+
+* Improve model accuracy using larger and more diverse datasets.
+* Deploy the application on cloud infrastructure.
+* Integrate electronic health record (EHR) systems.
+* Support multilingual interfaces.
+* Add real-time analytics and reporting dashboards.
+* Implement role-based authentication with JWT.
+* Add appointment scheduling and patient notifications.
+
+---
+
+## ⚠️ Disclaimer
+
+This project was developed as an academic final-year project to demonstrate the integration of mobile application development, machine learning, and web technologies. The machine learning model provides a preliminary screening result and should **not** be used as a substitute for professional medical diagnosis.
+
+---
+
+## 👨‍💻 Authors
+
+Developed as a Final Year Academic Project by the OCANS development team.
+
+---
+
+## 📄 License
+
+This project is intended for educational and research purposes.
