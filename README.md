@@ -100,11 +100,11 @@ Patients can securely access their reports through the mobile application using 
 ---
 
 ## 📷 Screenshots
-<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/4a55ebe6-b8b0-4fc2-b735-7b177035313b" />
-<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/8eeba667-ae22-470c-9d5b-4fbc2401eccb" />
-<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/441e055c-ddc3-490f-b744-b005ea14932b" />
-<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/19d50553-460c-4bd0-9e37-5cc982fa7880" />
-<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/06e66584-b79f-4c28-a1a8-ef26e414df5e" />
+<img width="1417" height="717" alt="image" src="https://github.com/user-attachments/assets/4a55ebe6-b8b0-4fc2-b735-7b177035313b" />
+<img width="1417" height="717" alt="image" src="https://github.com/user-attachments/assets/8eeba667-ae22-470c-9d5b-4fbc2401eccb" />
+<img width="1417" height="717" alt="image" src="https://github.com/user-attachments/assets/441e055c-ddc3-490f-b744-b005ea14932b" />
+<img width="1417" height="717" alt="image" src="https://github.com/user-attachments/assets/19d50553-460c-4bd0-9e37-5cc982fa7880" />
+<img width="1417" height="717" alt="image" src="https://github.com/user-attachments/assets/06e66584-b79f-4c28-a1a8-ef26e414df5e" />
 <img width="250" height="500" alt="WhatsApp Image 2026-08-03 at 3 59 12 PM" src="https://github.com/user-attachments/assets/360dfe4b-abac-4cc2-8b0a-589d930a6bf5" /> 
 <img width="250" height="500" alt="WhatsApp Image 2026-08-03 at 3 19 47 PM(1)" src="https://github.com/user-attachments/assets/f445ebf4-c246-40b0-8047-5ba88af2da09" />
 <img width="250" height="500" alt="WhatsApp Image 2026-08-03 at 3 19 51 PM" src="https://github.com/user-attachments/assets/3aeba10c-93a6-4bdb-8ee3-7c5a39a85cdf" />
