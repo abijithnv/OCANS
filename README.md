@@ -117,6 +117,11 @@ Patients can securely access their reports through the mobile application using 
 <img width="250" height="500" alt="WhatsApp Image 2026-08-03 at 4 36 58 PM" src="https://github.com/user-attachments/assets/9d704521-fc13-45e4-a732-f4c24bac35f6" />
 <img width="250" height="500" alt="WhatsApp Image 2026-08-03 at 4 39 34 PM" src="https://github.com/user-attachments/assets/3b8e5dce-3e9c-416e-b1ba-0ff49d142077" />
 <img width="250" height="500" alt="WhatsApp Image 2026-08-03 at 4 36 58 PM(1)" src="https://github.com/user-attachments/assets/27163cc9-b02d-4f88-9d25-f561a707144b" />
+<img width="720" height="1520" alt="WhatsApp Image 2026-08-03 at 5 13 49 PM" src="https://github.com/user-attachments/assets/6cda7ab5-5e09-43d5-8b15-e2773c830558" />
+<img width="720" height="1520" alt="WhatsApp Image 2026-08-03 at 5 13 49 PM(1)" src="https://github.com/user-attachments/assets/5e8489b0-24ea-42fc-86f3-820c389aaa67" />
+<img width="720" height="1520" alt="WhatsApp Image 2026-08-03 at 5 13 50 PM" src="https://github.com/user-attachments/assets/cc7a5f0b-b760-478e-9e60-e218e0aff446" />
+<img width="720" height="1507" alt="WhatsApp Image 2026-08-03 at 5 12 00 PM" src="https://github.com/user-attachments/assets/e4ac96eb-f0b7-4062-baba-a8b9664e8801" />
+
 
 
 
