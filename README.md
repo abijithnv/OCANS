@@ -100,7 +100,7 @@ Patients can securely access their reports through the mobile application using 
 ---
 
 ## 📷 Screenshots
-<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/4a55ebe6-b8b0-4fc2-b735-7b177035313b" />
+<img width="1080" height="700" alt="image" src="https://github.com/user-attachments/assets/4a55ebe6-b8b0-4fc2-b735-7b177035313b" />
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/8eeba667-ae22-470c-9d5b-4fbc2401eccb" />
 <img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/441e055c-ddc3-490f-b744-b005ea14932b" />
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/19d50553-460c-4bd0-9e37-5cc982fa7880" />
