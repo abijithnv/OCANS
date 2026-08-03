@@ -101,7 +101,10 @@ Patients can securely access their reports through the mobile application using 
 
 ## 📷 Screenshots
 
-Add screenshots of:
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/8eeba667-ae22-470c-9d5b-4fbc2401eccb" />
+
+
+
 
 * Mobile Application
 * Staff Dashboard
