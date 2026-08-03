@@ -127,14 +127,6 @@ Patients can securely access their reports through the mobile application using 
 
 
 
-
-* Mobile Application
-* Staff Dashboard
-* Doctor Dashboard
-* Admin Dashboard
-* Prediction Result
-* Patient Report
-
 ---
 
 ## 🚀 Future Enhancements
